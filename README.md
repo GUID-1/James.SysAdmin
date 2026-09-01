@@ -3,8 +3,8 @@
 <h2>👨‍💻 Certifications:</h2> 
 
 - <b>Cisco Certified Network Administrator (CCNA)</b>
-- <b>Red Hat Certified System Administrator (RHCSA)</b>
-- <b>CompTIA Security +</b>
+- [Red Hat Certified System Administrator (RHCSA)](https://www.credly.com/badges/fd6ac4be-9543-4af6-9a84-7eee75ddc8bc)
+- [CompTIA Security +](https://www.credly.com/badges/17aa5bbd-b3d1-4009-aeed-3530a06313df/public_url)
 - <b>CompTIA Server + (pending)</b>
 
 <h2>👨‍💻 Packet Tracer Projects:</h2>
