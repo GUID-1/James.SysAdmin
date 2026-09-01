@@ -1,6 +1,13 @@
-<h1>Hi, I'm James! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Systems Admin Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm James! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/jamesoutin/">Systems Admin Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
-<h2>👨‍💻 Systems Administrator Projects:</h2>
+<h2>👨‍💻 Certifications:</h2> 
+
+- <b>Cisco Certified Network Administrator (CCNA)</b>
+- <b>Red Hat Certified System Administrator (RHCSA)</b>
+- <b>CompTIA Security +</b>
+- <b>CompTIA Server + (pending)</b>
+
+<h2>👨‍💻 Packet Tracer Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
