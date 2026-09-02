@@ -1,6 +1,6 @@
 <h1>Hi, I'm James! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/jamesoutin/">Systems Admin Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
-<h2>👨‍💻 Certifications:</h2> 
+<h2>📄 Certifications:</h2> 
 
 - <b>Cisco Certified Network Administrator (CCNA)</b>
 - [Red Hat Certified System Administrator (RHCSA)](https://www.credly.com/badges/fd6ac4be-9543-4af6-9a84-7eee75ddc8bc)
